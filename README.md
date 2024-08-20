@@ -1,2 +1,21 @@
-# Projeto_PlanejaFacil
-Projeto sobre fináncias familiares construído desde o protótipo durante o curso PROA do Senac. Dirigido pelo Prof° Gabriel Azevedo.
+# PlanejaFácil - Protótipo de Média Fidelidade
+
+O protótipo atual do **PlanejaFácil** foi desenvolvido utilizando o Figma, com o objetivo de criar uma ferramenta intuitiva para ajudar famílias a gerenciar suas finanças de maneira prática e eficiente. Este protótipo é de média fidelidade, apresentando uma interface visual clara e funcionalidades básicas que simulam a experiência do usuário final.
+
+## Funcionalidades Desenvolvidas
+
+- **Dashboard Personalizado**: Visão geral das finanças, com gráficos que mostram receitas, despesas e saldo disponível.
+- **Categorização de Gastos**: Os usuários podem visualizar e categorizar suas despesas em essenciais, emergenciais, lazer, entre outros.
+- **Gestão de Contas**: Acompanhamento de contas a pagar, com a opção de marcar pagamentos realizados e receber lembretes.
+
+## Ponto de Melhorias
+
+Apesar de oferecer uma boa base para a experiência do usuário, o protótipo ainda possui áreas que precisam ser exploradas e aprimoradas:
+
+- **Interatividade**: Melhorar as transições e feedbacks visuais para criar uma experiência mais fluida.
+- **Funcionalidades Adicionais**: Implementar novas funcionalidades, como simulação de investimentos e planejamento de metas financeiras.
+- **Testes de Usabilidade**: Realizar testes com usuários reais para identificar pontos de frustração e áreas de melhoria.
+
+O próximo passo é refinar esse protótipo, levando em consideração o feedback dos usuários e adicionando novas funcionalidades para tornar o PlanejaFácil uma ferramenta completa e eficiente para o gerenciamento financeiro familiar.
+
+![Protótipo PlanejaFácil](path/to/your/image.png)
